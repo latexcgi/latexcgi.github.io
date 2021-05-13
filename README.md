@@ -2,7 +2,7 @@
 
 ## Github-Pages repository
 
-This site is now just use for experimenting with various things.
+This site is now just used for experimenting with various things.
 
 
 You may be looking for a live host of the latexcgi server, please use https://texlive.net
